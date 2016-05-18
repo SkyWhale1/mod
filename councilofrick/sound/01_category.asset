@@ -1,0 +1,6 @@
+category = {
+ name = "Effects"
+ soundeffects = {
+	morty_moving_pop
+	meeseeks_can_do
+}

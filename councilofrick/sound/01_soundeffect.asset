@@ -1,0 +1,16 @@
+soundeffect =
+{
+	name = morty_moving_pop
+	sounds { 
+			sound = morty_moving_pop 
+	}
+	volume = 0.70
+}
+soundeffect =
+{
+	name = meeseeks_can_do
+	sounds { 
+			sound = meeseeks_can_do
+	}
+	volume = 0.70
+}
